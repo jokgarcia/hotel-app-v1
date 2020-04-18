@@ -3,7 +3,6 @@
 ################################################################################
 
 /.vs
-/TheHotelApp/Controllers
 /TheHotelApp/bin/Debug/netcoreapp2.0
 /TheHotelApp/obj/Debug/netcoreapp2.0
 /TheHotelApp/obj
